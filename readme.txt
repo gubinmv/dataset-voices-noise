@@ -25,3 +25,5 @@
 •	source – каталог файлов источников
 •	create_dataset.py – python file, создание датасета из источников
 •	print_dataset.py – python file, описание параметров датасета
+
+Скачать полный датасет можно по ссылке https://drive.google.com/drive/folders/1YYsgUEQPyDn3XJD9ryIeINQYCSRYYa-c?usp=sharing
